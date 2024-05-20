@@ -131,7 +131,7 @@ color: hsl(228, 45%, 44%);
         box-shadow: 10px 5px 5px black;
         padding: 20px;
         margin: 0;
-        height: 70%;
+        height: 50%;
         max-width: 50vh;
         border-radius: 20px;
     }
@@ -151,7 +151,7 @@ color: hsl(228, 45%, 44%);
       h3{
         background-color: #f4d04e;
         padding: 10px 15px;
-        margin: 20px 0;
+        margin: 10px 0;
         width: 20%;
         border-radius: 5px;
         font-size: 14px;
